@@ -1,6 +1,6 @@
 # Flutter Chat
 
-An application as name suggest is a simple chat with one room for all user. Data is kept on Firestore database user selfies on Firebase Storage. To use the application
+The application as name suggest is a simple chat with one room for all user. Data is kept on Firestore database user selfies on Firebase Storage. To use the application
 user needs to create an account. Account management is possible thanks to Firebes Authentication. Additionally Firebase Messaging system was used to allow the administrator to sending messages to logged in users.
 
 ## Screenshots
